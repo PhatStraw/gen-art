@@ -22,7 +22,7 @@ This project is a web-based generative art gallery that allows users to experien
 ## Local Setup
 1. **Clone the Repository**: 
    ```
-   git clone [[gen-art]](https://github.com/PhatStraw/gen-art/)
+   git clone https://github.com/PhatStraw/gen-art/
    ```
 2. **Navigate to the Project Directory**:
    ```
