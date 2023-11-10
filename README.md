@@ -1,5 +1,9 @@
 # Generative Art Gallery
 
+## URL
+
+https://phatstraw.github.io/gen-art/
+
 ## Overview
 This project is a web-based generative art gallery that allows users to experience a range of dynamically generated art styles. The gallery uses JavaScript to create a variety of unique, visually appealing patterns on an HTML5 canvas. Users can cycle through different generative algorithms, view the resulting artwork, and download their favorite pieces.
 
